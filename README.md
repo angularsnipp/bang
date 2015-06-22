@@ -1,6 +1,7 @@
 # bang
 
 _noun_
+
 1. a loud, sudden, explosive noise, as the discharge of a gun.
 
 2. __a webapp project recipe based on [Babel](https://babeljs.io) & [AngularJS](https://angularjs.org).__
